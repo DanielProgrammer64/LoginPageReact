@@ -1,6 +1,6 @@
 import "./App.css";
-import LoginPage from "./pages/LoginPage/Index.jsx";
-import Home from "./pages/HomePage/home"
+import LoginPage from "./Index.jsx";
+import Home from "./home"
 
 function App() {
   return (
