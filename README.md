@@ -1,6 +1,37 @@
 
 ![image](https://github.com/DanielProgrammer64/LoginPageReact/assets/103775773/304c2295-94a9-4b27-a4ea-9c5f806fe021)
 
+### questões ressaltáveis do desenvolvimento
+<i>
+<ul>
+  <li>
+    Esta é uma página simples de login em react, ela não está ligada a um servidor
+  </li>
+  <li>
+    esta página consiste no usuário inserir dados de email e senhas
+  </li>
+  <li>
+    após a inserção, os dados são estocados em um objeto que pode ser aberto no console
+  </li>
+</ul>
+
+### Técnologias usada:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### técnologia que pode ser inserida no futuro:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+
+
+![wp2465926-javascript-wallpapers](https://github.com/DanielProgrammer64/LoginPageReact/assets/103775773/5ccc21a1-d65d-4d5b-8cd1-65fbe2833598)
+
+
+# Documentação de guia React -------->
+
 # Começando com o Create React App ⚛
 Este projeto foi iniciado com o Create React App.
 
